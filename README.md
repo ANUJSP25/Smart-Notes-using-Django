@@ -15,6 +15,6 @@ Smart Notes is a web application built with Django that allows users to create a
 <ul>
 <li>Django
 <li>Python
-<li>HTML, CSS and JS
+<li>HTML and CSS
 <li>Bootstrap
 </ul>
